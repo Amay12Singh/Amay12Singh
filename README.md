@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Amay12Singh
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+As a highly motivated and detail-oriented individual with a passion for developing and designing websites, I am confident that my skills and experience make me a strong candidate for this role. 
 
-<!---
-Amay12Singh/Amay12Singh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I have been learning both front-end and back-end web development, including HTML, CSS, JavaScript, Python and various frameworks such as React. I am an engineering student in the domain of design so I also study UX/UI design and can work along with the designers.
+
