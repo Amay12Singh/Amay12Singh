@@ -1,11 +1,11 @@
 ## Hey 👋, I'm [Amay Singh!](https://github.com/Amay12Singh)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/iampavangandhi)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amay-singh-46a100225/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://amay12singh.github.io/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Amay12Singh)
 
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
+### Glad to see you here! &nbsp; !
 
 I'm a Third year student majoring in Industrial Design 🎓 from National Institute of Technology, Rourkela 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms.
 
