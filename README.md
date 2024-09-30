@@ -7,7 +7,7 @@
 
 ### Glad to see you here! &nbsp; !
 
-I'm a Third year student majoring in Industrial Design 🎓 from National Institute of Technology, Rourkela 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms.
+I'm a Final year student majoring in Industrial Design 🎓 from National Institute of Technology, Rourkela 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms.
 
 
 
