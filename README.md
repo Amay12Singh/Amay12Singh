@@ -17,7 +17,7 @@ I'm a Final year student majoring in Industrial Design 🎓 from National Instit
 
 
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Amay12Singh).
+- 👨🏻‍💻 &nbsp; My ML and DS projects are available on [Kaggle](https://www.kaggle.com/amay12).
 
 
 - 📫 &nbsp; How to reach me: amay12singh@gmail.com.
