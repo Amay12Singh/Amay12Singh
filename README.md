@@ -16,7 +16,7 @@ I'm a Final year student majoring in Industrial Design 🎓 from National Instit
 ### Talking about Personal Stuffs:
 
 
-- 🚀 &nbsp; I’m currently learning Full Stack Development.
+- 🚀 &nbsp; I’m currently learning Data Science and Machine Learning.
 - 👨🏻‍💻 &nbsp; My ML and DS projects are available on [Kaggle](https://www.kaggle.com/amay12).
 
 
@@ -25,7 +25,7 @@ I'm a Final year student majoring in Industrial Design 🎓 from National Instit
 
 ### My Absolute Favorites:
 
-- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
+- 💻 &nbsp; I love exploring new tech stacks and building cool stuffs.
 - 📰 &nbsp; Coding co.
 - 🍕 &nbsp; Hackathons, meetups & tech events.
 
