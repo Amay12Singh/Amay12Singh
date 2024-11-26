@@ -21,7 +21,7 @@ I'm a Final year student majoring in Industrial Design 🎓 from National Instit
 
 
 - 📫 &nbsp; How to reach me: amay12singh@gmail.com.
-- 📝 &nbsp; Checkout my [Resume]([(https://drive.google.com/file/d/1dW6BNh0myWUJfbgTLZrsTXUaFOl24719/view)]).
+- 📝 &nbsp; Checkout my [Resume]((https://drive.google.com/file/d/1dW6BNh0myWUJfbgTLZrsTXUaFOl24719/view)).
 
 ### My Absolute Favorites:
 
