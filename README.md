@@ -26,7 +26,7 @@ I'm a Final year student majoring in Industrial Design 🎓 from National Instit
 ### My Absolute Favorites:
 
 - 💻 &nbsp; I love exploring new tech stacks and building cool stuffs.
-- 📰 &nbsp; Coding co.
+- 📰 &nbsp; Competitive coding.
 - 🍕 &nbsp; Hackathons, meetups & tech events.
 
 ### Languages and Tools:
